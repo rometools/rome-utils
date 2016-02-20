@@ -1,4 +1,3 @@
-rome-utils
-==========
+# Project moved
 
-Utility classes for ROME projects
+We have combined all ROME projects in one repository: https://github.com/rometools/rome
